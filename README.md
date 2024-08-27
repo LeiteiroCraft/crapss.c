@@ -1,0 +1,2 @@
+# crapss.c
+cassino
